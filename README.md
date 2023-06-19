@@ -1,5 +1,5 @@
 # Real Estate Simplilearn Capstone Project
-This is the capstone project for Simplilearn Data Scientist Masters Program.
+This is the capstone project for Simplilearn's Data Scientist Masters Program.
 ## DESCRIPTION
 - A banking institution requires actionable insights into mortgage-backed securities, geographic business investment, and real estate analysis. 
 - The mortgage bank would like to identify potential monthly mortgage expenses for each region based on monthly family income and rental of the real estate.
